@@ -26,7 +26,8 @@ h1 {
 }
 
 #leftposition {
-  background-color: rgb(226, 226, 226);
+  background-color: #505050;
+  color: whitesmoke;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -46,7 +47,8 @@ h1 {
 }
 
 #rightposition {
-  background-color: rgb(226, 226, 226);
+  background-color: #505050;
+  color: whitesmoke;
   cursor: pointer;
   display: flex;
   align-items: center;
